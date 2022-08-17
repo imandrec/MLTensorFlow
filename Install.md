@@ -2,7 +2,7 @@ Through GIT:
 git clone https://github.com/https-deeplearning-ai/tensorflow-1-public
 
 Install:
-/ntensorflow==2.7.0
+tensorflow==2.7.0
 scikit-learn==1.0.1
 pandas==1.1.5
 matplotlib==3.2.2
